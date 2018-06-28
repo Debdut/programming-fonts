@@ -9,3 +9,5 @@ Top Programming Fonts
 * M+2m
 * DejaVu Sans Mono
 * Envy Code R
+* FiraCode
+* Mosk
